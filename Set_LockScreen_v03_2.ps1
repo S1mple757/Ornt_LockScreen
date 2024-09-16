@@ -1,5 +1,3 @@
-Set-ExecutionPolicy Unrestricted
-
 $RegKeyPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\PersonalizationCSP"
 
 $LockScreenPath = "LockScreenImagePath"
